@@ -1,0 +1,5 @@
+C:\Personal\PersonalProject\Services\FiveDevs.Services\DataAccess\FiveDevs.DataAccess\obj\Debug\FiveDevs.DataAccess.csprojResolveAssemblyReference.cache
+C:\Personal\PersonalProject\Services\FiveDevs.Services\DataAccess\FiveDevs.DataAccess\bin\Debug\FiveDevs.DataAccess.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\DataAccess\FiveDevs.DataAccess\bin\Debug\FiveDevs.DataAccess.pdb
+C:\Personal\PersonalProject\Services\FiveDevs.Services\DataAccess\FiveDevs.DataAccess\obj\Debug\FiveDevs.DataAccess.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\DataAccess\FiveDevs.DataAccess\obj\Debug\FiveDevs.DataAccess.pdb

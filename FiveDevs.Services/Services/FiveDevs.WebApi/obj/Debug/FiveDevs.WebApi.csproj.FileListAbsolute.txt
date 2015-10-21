@@ -1,0 +1,14 @@
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\FiveDevs.WebApi.dll.config
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\FiveDevs.WebApi.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\FiveDevs.WebApi.pdb
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\Newtonsoft.Json.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\System.Web.Http.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\Newtonsoft.Json.xml
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\System.Web.Http.xml
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\obj\Debug\FiveDevs.WebApi.csprojResolveAssemblyReference.cache
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\obj\Debug\FiveDevs.WebApi.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Services\FiveDevs.WebApi\obj\Debug\FiveDevs.WebApi.pdb

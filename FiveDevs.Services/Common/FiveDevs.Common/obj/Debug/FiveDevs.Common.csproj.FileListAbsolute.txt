@@ -1,0 +1,5 @@
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Common\FiveDevs.Common\bin\Debug\FiveDevs.Common.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Common\FiveDevs.Common\bin\Debug\FiveDevs.Common.pdb
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Common\FiveDevs.Common\obj\Debug\FiveDevs.Common.csprojResolveAssemblyReference.cache
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Common\FiveDevs.Common\obj\Debug\FiveDevs.Common.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\Common\FiveDevs.Common\obj\Debug\FiveDevs.Common.pdb

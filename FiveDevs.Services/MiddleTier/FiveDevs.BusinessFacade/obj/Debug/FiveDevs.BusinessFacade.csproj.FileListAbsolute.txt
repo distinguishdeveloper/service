@@ -1,0 +1,5 @@
+C:\Personal\PersonalProject\Services\FiveDevs.Services\MiddleTier\FiveDevs.BusinessFacade\bin\Debug\FiveDevs.BusinessFacade.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\MiddleTier\FiveDevs.BusinessFacade\bin\Debug\FiveDevs.BusinessFacade.pdb
+C:\Personal\PersonalProject\Services\FiveDevs.Services\MiddleTier\FiveDevs.BusinessFacade\obj\Debug\FiveDevs.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\Personal\PersonalProject\Services\FiveDevs.Services\MiddleTier\FiveDevs.BusinessFacade\obj\Debug\FiveDevs.BusinessFacade.dll
+C:\Personal\PersonalProject\Services\FiveDevs.Services\MiddleTier\FiveDevs.BusinessFacade\obj\Debug\FiveDevs.BusinessFacade.pdb
