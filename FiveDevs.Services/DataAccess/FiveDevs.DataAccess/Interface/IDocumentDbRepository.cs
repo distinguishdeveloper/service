@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FiveDevs.DataContract;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,6 @@ namespace FiveDevs.DataAccess.Interface
         /// <typeparam name="T"></typeparam>
         /// <param name="entityName">Name of the entity.</param>
         /// <returns></returns>
-        Task<T> Read<T>(string entityName);
+        Task<GenericResponse> Read<T>(string entityName);
     }
 }
